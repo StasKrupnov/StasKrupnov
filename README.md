@@ -8,9 +8,6 @@
 - **MLOps**: Разработка веб-приложения с использованием Streamlit, FastAPI и развертывание через Docker.
 - **Симулятор аналитика**: Аналитика, A/B тестирование, ETL пайплайны с AirFlow, Git, Clickhouse, Superset.
 
-## О себе
-Практикую Data Science, интересуюсь прикладным ML и развитием проектов. 
-
 ## Навыки
 - **Python**: pandas, polars, cuDF, scikit-learn, catboost, lgbm, Optuna, Airflow.
 - **SQL**: Clickhouse, SQLite.
