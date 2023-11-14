@@ -6,7 +6,7 @@
 ## Проекты
 - **Pet-проект**: Двухэтапная рекомендательная система с использованием эвристик и CatBoost.
 - **MLOps**: Разработка веб-приложения с использованием Streamlit, FastAPI и развертывание через Docker.
-- **Симулятор аналитика**: Аналитика, A/B тестирование, ETL пайплайны с AirFlow, Git, Clickhouse, Superset.
+- **Симулятор аналитика**: Автоматизация отчетности, ETL пайплайны с AirFlow, система алертов.
 
 ## Навыки
 - **Python**: pandas, polars, cuDF, scikit-learn, catboost, lgbm, Optuna, Airflow.
